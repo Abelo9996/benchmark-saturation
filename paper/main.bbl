@@ -1,0 +1,141 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anonymous(2024)]{reproducible-eval-2026}
+Anonymous.
+\newblock Towards reproducible {LLM} evaluation: Quantifying uncertainty in
+  {LLM} benchmark scores.
+\newblock \emph{arXiv:2410.03492}, 2024.
+
+\bibitem[Anonymous(2026{\natexlab{a}})]{benchmark-illusion-2026}
+Anonymous.
+\newblock Benchmark illusion: Disagreement among {LLMs} and its scientific
+  consequences.
+\newblock \emph{arXiv:2602.11898}, 2026{\natexlab{a}}.
+
+\bibitem[Anonymous(2026{\natexlab{b}})]{efficient-eval-2026}
+Anonymous.
+\newblock Efficient evaluation of {LLM} performance with statistical
+  guarantees.
+\newblock \emph{arXiv:2601.20251}, 2026{\natexlab{b}}.
+
+\bibitem[Anonymous(2026{\natexlab{c}})]{eval-standardization-2026}
+Anonymous.
+\newblock Towards more standardized {AI} evaluation: From models to agents.
+\newblock \emph{arXiv:2602.18029}, 2026{\natexlab{c}}.
+
+\bibitem[Anonymous(2026{\natexlab{d}})]{same-meaning-2026}
+Anonymous.
+\newblock Same meaning, different scores: Lexical and syntactic sensitivity in
+  {LLM} evaluation.
+\newblock \emph{arXiv:2602.17316}, 2026{\natexlab{d}}.
+
+\bibitem[Bowman and Dahl(2021)]{bowman2021fix}
+Samuel~R Bowman and George~E Dahl.
+\newblock What will it take to fix benchmarking in natural language
+  understanding?
+\newblock In \emph{NAACL}, 2021.
+
+\bibitem[Clark et~al.(2018)]{clark2018arc}
+Peter Clark et~al.
+\newblock Think you have solved question answering? try {ARC}, the {AI2}
+  reasoning challenge.
+\newblock \emph{arXiv:1803.05457}, 2018.
+
+\bibitem[Cobbe et~al.(2021)]{cobbe2021gsm8k}
+Karl Cobbe et~al.
+\newblock Training verifiers to solve math word problems.
+\newblock \emph{arXiv:2110.14168}, 2021.
+
+\bibitem[Hendrycks et~al.(2021{\natexlab{a}})]{hendrycks2021math}
+Dan Hendrycks et~al.
+\newblock Measuring mathematical problem solving with the {MATH} dataset.
+\newblock \emph{NeurIPS}, 2021{\natexlab{a}}.
+
+\bibitem[Hendrycks et~al.(2021{\natexlab{b}})]{hendrycks2021mmlu}
+Dan Hendrycks et~al.
+\newblock Measuring massive multitask language understanding.
+\newblock In \emph{ICLR}, 2021{\natexlab{b}}.
+
+\bibitem[{Hugging Face}(2024)]{open-llm-leaderboard-v2}
+{Hugging Face}.
+\newblock Open {LLM} leaderboard v2, 2024.
+\newblock URL
+  \url{https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard}.
+
+\bibitem[Kiela et~al.(2021)]{kiela2021dynabench}
+Douwe Kiela et~al.
+\newblock Dynabench: Rethinking benchmarking in {NLP}.
+\newblock In \emph{NAACL}, 2021.
+
+\bibitem[Liang et~al.(2023)]{liang2023holistic}
+Percy Liang et~al.
+\newblock Holistic evaluation of language models.
+\newblock \emph{Transactions on Machine Learning Research}, 2023.
+
+\bibitem[Lin et~al.(2022)Lin, Hilton, and Evans]{lin2022truthfulqa}
+Stephanie Lin, Jacob Hilton, and Owain Evans.
+\newblock {TruthfulQA}: Measuring how models mimic human falsehoods.
+\newblock In \emph{ACL}, 2022.
+
+\bibitem[{NIST}(2026)]{nist-eval-2026}
+{NIST}.
+\newblock Expanding the {AI} evaluation toolbox with statistical models.
+\newblock Technical report, National Institute of Standards and Technology,
+  2026.
+
+\bibitem[Recht et~al.(2019)Recht, Roelofs, Schmidt, and
+  Shankar]{recht2019imagenet}
+Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, and Vaishaal Shankar.
+\newblock Do {ImageNet} classifiers generalize to {ImageNet}?
+\newblock \emph{ICML}, 2019.
+
+\bibitem[Rein et~al.(2024)]{rein2024gpqa}
+David Rein et~al.
+\newblock {GPQA}: A graduate-level google-proof q\&a benchmark.
+\newblock \emph{arXiv:2311.12022}, 2024.
+
+\bibitem[Sakaguchi et~al.(2021)]{sakaguchi2021winogrande}
+Keisuke Sakaguchi et~al.
+\newblock {WinoGrande}: An adversarial winograd schema challenge at scale.
+\newblock \emph{Communications of the ACM}, 2021.
+
+\bibitem[Sprague et~al.(2024)]{sprague2024musr}
+Zayne Sprague et~al.
+\newblock {MuSR}: Testing the limits of chain-of-thought with multistep soft
+  reasoning.
+\newblock \emph{arXiv:2310.16049}, 2024.
+
+\bibitem[Suzgun et~al.(2023)]{suzgun2023bbh}
+Mirac Suzgun et~al.
+\newblock Challenging {BIG-Bench} tasks and whether chain-of-thought can solve
+  them.
+\newblock 2023.
+
+\bibitem[Uttl(2005)]{uttl2005north}
+Bob Uttl.
+\newblock North {American} adult reading test: Age norms, reliability, and
+  validity.
+\newblock \emph{Journal of Clinical and Experimental Neuropsychology}, 2005.
+
+\bibitem[Wang et~al.(2024)]{wang2024mmlupro}
+Yubo Wang et~al.
+\newblock {MMLU-Pro}: A more robust and challenging multi-task language
+  understanding benchmark.
+\newblock \emph{arXiv:2406.01574}, 2024.
+
+\bibitem[Zellers et~al.(2019)]{zellers2019hellaswag}
+Rowan Zellers et~al.
+\newblock {HellaSwag}: Can a machine really finish your sentence?
+\newblock In \emph{ACL}, 2019.
+
+\bibitem[Zhou et~al.(2023)]{zhou2023ifeval}
+Jeffrey Zhou et~al.
+\newblock Instruction-following evaluation for large language models.
+\newblock \emph{arXiv:2311.07911}, 2023.
+
+\end{thebibliography}
